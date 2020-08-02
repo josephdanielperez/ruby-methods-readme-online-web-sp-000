@@ -1,5 +1,5 @@
 def greeting
-  10.times.puts "Hello World"
+  puts "Hello World"
 end
 
-greeting
+10.times.greeting
